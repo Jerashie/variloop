@@ -15,4 +15,4 @@ function calculate() {
     document.getElementById("totalLength").textContent = roundedLength;
     document.getElementById("resultBox").style.display = "block";
   }
-  
+
